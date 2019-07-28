@@ -106,7 +106,6 @@
 				832341AE1AAA6A7D00B99B32 /* Libraries */,
 				83CBBA001A601CBA00E9B192 /* Products */,
 				2D16E6871FA4F8E400B85C8A /* Frameworks */,
-				D02570C9222AFA8600FCA22C /* Recovered References */,
 				6EDFC2C5D40FA439CAF8374F /* Pods */,
 			);
 			indentWidth = 2;
@@ -120,17 +119,6 @@
 				13B07F961A680F5B00A75B9A /* example.app */,
 			);
 			name = Products;
-			sourceTree = "<group>";
-		};
-		D02570C9222AFA8600FCA22C /* Recovered References */ = {
-			isa = PBXGroup;
-			children = (
-				21124052BD1C42B29932C41E /* libRNDocumentPicker.a */,
-				8A8A06B3CBFF4903BA59A99D /* libRNFS.a */,
-				02563868580D41E0AC0F0BD0 /* libDBCustomTabs.a */,
-				E888776BF1B64177B1C97845 /* libRNZipArchive.a */,
-			);
-			name = "Recovered References";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */

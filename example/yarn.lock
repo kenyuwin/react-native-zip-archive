@@ -5067,10 +5067,9 @@ react-native-cli@^2.0.1:
     prompt "^0.2.14"
     semver "^5.0.3"
 
-react-native-custom-tabs@^0.1.7:
+react-native-custom-tabs@plamworapot/react-native-custom-tabs#develop:
   version "0.1.7"
-  resolved "https://registry.yarnpkg.com/react-native-custom-tabs/-/react-native-custom-tabs-0.1.7.tgz#2dfb4028b0a443610d94792b2019810f68dde525"
-  integrity sha512-Lgxh/KvhRnirnvN9FrS/+FJ8OIKJcWGdceSrZutZt2x02Sc72uQVD1O4rh2kzN8NUw8yU6KQz279ltkicISbaw==
+  resolved "https://codeload.github.com/plamworapot/react-native-custom-tabs/tar.gz/9349e1a179b133ef61315f6eb90b9b659e4f2934"
 
 react-native-document-picker@^2.1.0:
   version "2.3.0"
@@ -5090,16 +5089,16 @@ react-native-really-awesome-button@^0.8.3:
   resolved "https://registry.yarnpkg.com/react-native-really-awesome-button/-/react-native-really-awesome-button-0.8.3.tgz#81b9f19775d0f094467550ec4584762f1fbdd841"
   integrity sha1-gbnxl3XQ8JRGdVDsRYR2Lx+92EE=
 
-react-native-webview@^5.12.1:
-  version "5.12.1"
-  resolved "https://registry.yarnpkg.com/react-native-webview/-/react-native-webview-5.12.1.tgz#5e2b124e9087d64fc40040d911c10ee5744b5d4d"
-  integrity sha512-pFYzyNUG+k7Jk2a0Z3S1+OL9qtp0VQxVP08d1ume/O6l1Xibi0K0hRZms7zPUHqQc2uWEfjZ0FOa17MIN7vruw==
+react-native-webview@^6.3.1:
+  version "6.3.1"
+  resolved "https://registry.yarnpkg.com/react-native-webview/-/react-native-webview-6.3.1.tgz#fa8e855bc8cafeda3362eafe8c84d8562df1514c"
+  integrity sha512-DdiEgzIYZCmKXSu9roVq4DHw+RQsNqbU5Qwafinm8WDUygxO61XmB+130v+jsKkwG8D4B8IFS96/aPphrp9LnA==
   dependencies:
     escape-string-regexp "1.0.5"
     invariant "2.2.4"
 
 "react-native-zip-archive@file:..":
-  version "4.1.1"
+  version "5.0.0-alpha.0"
 
 react-native@0.60.4:
   version "0.60.4"

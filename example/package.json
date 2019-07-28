@@ -11,11 +11,11 @@
     "react": "16.8.6",
     "react-native": "0.60.4",
     "react-native-cli": "^2.0.1",
-    "react-native-custom-tabs": "^0.1.7",
+    "react-native-custom-tabs": "plamworapot/react-native-custom-tabs#develop",
     "react-native-document-picker": "^2.1.0",
     "react-native-fs": "^2.9.12",
     "react-native-really-awesome-button": "^0.8.3",
-    "react-native-webview": "^5.12.1",
+    "react-native-webview": "^6.3.1",
     "react-native-zip-archive": "file:../"
   },
   "devDependencies": {
